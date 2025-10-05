@@ -2,6 +2,11 @@
 
 ### Project Category: Beginner
 
+![SQL](https://img.shields.io/badge/Language-SQL-blue?logo=sqlite)
+![MySQL](https://img.shields.io/badge/Database-MySQL-orange?logo=mysql)
+![Beginner Friendly](https://img.shields.io/badge/Level-Beginner-green)
+![Project Type](https://img.shields.io/badge/Project-Data%20Analysis-yellow)
+
 
 ## Overview
 This project presents an **Annual Pizza Sales SQL Report**, showcasing practical SQL queries applied to a real-world pizza sales dataset. It covers **Basic (5), Intermediate (5), and Advanced (3) SQL queries**, demonstrating key analytical tasks such as calculating total revenue, identifying top-selling pizzas, analyzing order distribution, and measuring category-wise and cumulative sales performance.
