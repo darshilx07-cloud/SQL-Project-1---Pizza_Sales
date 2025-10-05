@@ -1,5 +1,7 @@
 # SQL-Project-1---Pizza_Sales
 
+![Pizza Sales](assets/pizza_logo.png)
+
 Project Category: Beginner
 
 
